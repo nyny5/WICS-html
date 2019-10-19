@@ -1,0 +1,34 @@
+h1{
+    color:red;
+}
+h2{
+    color:orange;
+}
+h3{
+    color: blue;
+}
+h4{
+    color: green;
+}
+h5{
+    color: black;
+}
+img{ 
+    width: 300px;
+    height: 200px;
+    border-style: double;
+    border-width: 10px;
+    border-left-color: red ;
+    border-right-color:orange ;
+    border-top-color: blue ;
+    border-bottom-color: green ;
+    
+    
+}
+a{
+    color:black
+}
+body{
+    background-color: #d0ebf7;
+    font-family: fantasy; 
+}
